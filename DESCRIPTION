@@ -1,0 +1,10 @@
+Package: SNPSelection
+Type: Package
+Title: SNP Selection for Genomic Chip
+Version: 0.1.0
+Author: Xubin Lu
+Maintainer: Xubin Lu <lxb@yzu.edu.cn>
+Description: Functions to select SNPs with the most information from raw files and combine results. Using location_sel_SNP(Number of SNPs you want).
+License: MIT
+Depends: R (>= 3.5.0)
+Imports: data.table, progress, dplyr
